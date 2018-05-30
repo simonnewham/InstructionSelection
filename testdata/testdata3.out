@@ -1,0 +1,5 @@
+v0=eval(input())
+x=v0
+v1=1
+v1=(x+1)
+print(v1)

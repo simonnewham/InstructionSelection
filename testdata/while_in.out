@@ -1,0 +1,6 @@
+v0=eval(input())
+x=v0
+v1=1
+while x<v1:
+v2=12112
+print(v2)

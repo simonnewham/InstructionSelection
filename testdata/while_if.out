@@ -1,0 +1,15 @@
+v0=eval(input())
+x=v0
+v1=eval(input())
+y=v1
+v2=1
+while x<v2:
+v3=1
+if (y<v3):
+v4=x
+v5=1
+v5=(x+1)
+x=v5
+else:
+v6=2222
+print(v6)

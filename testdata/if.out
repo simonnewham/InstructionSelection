@@ -1,0 +1,7 @@
+v0=1
+if (x<v0):
+v1=1111
+print(v1)
+else:
+v2=2222
+print(v2)
